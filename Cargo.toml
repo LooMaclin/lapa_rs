@@ -1,0 +1,9 @@
+[package]
+name = "lapa_rs"
+version = "0.1.0"
+authors = ["loomaclin <loo.maclin@protonmail.com>"]
+
+[dependencies]
+rustbreak = "=1.4.0"
+serde_derive = "=1.0.66"
+serde = "=1.0.66"
